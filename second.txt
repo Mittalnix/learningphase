@@ -1,3 +1,4 @@
 Hi , I am Nikhil 
 I am exercising on git cmd 
 My instructor is Sajeed
+Branching is to create logical tree
