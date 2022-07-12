@@ -1,0 +1,3 @@
+Today is Tuseday
+Month is July
+Year is 2022
